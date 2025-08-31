@@ -1,0 +1,19 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+.next
+dist
+out
+
+# Generated files
+*.svg
+*.snap
+
+# Other files
+tsconfig.json
+pnpm-lock.yaml
+package.json
+package-lock.json
+next.config.ts
+next-env.d.ts
